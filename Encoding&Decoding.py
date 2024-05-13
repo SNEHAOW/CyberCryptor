@@ -1,3 +1,4 @@
+import random
 def CyberCryptor():
     encoder = {'A': '$', 'B': 'F', 'C': 'C', 'D': '2', 'E': 'B', 'F': 'I', 'G': '=', 'H': '*', 'I': '"', 'J': ']',
                'K': '1',
